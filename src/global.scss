@@ -10,20 +10,20 @@
  */
 
 /* Core CSS required for Ionic components to work properly */
-@import "../pokeapi/node_modules/@ionic/angular/css/core.css";
+@import "../node_modules/@ionic/angular/css/core.css";
 
 /* Basic CSS for apps built with Ionic */
-@import "../pokeapi/node_modules/@ionic/angular/css/normalize.css";
-@import "../pokeapi/node_modules/@ionic/angular/css/structure.css";
-@import "../pokeapi/node_modules/@ionic/angular/css/typography.css";
-@import "../pokeapi/node_modules/@ionic/angular/css/display.css";
+@import "../node_modules/@ionic/angular/css/normalize.css";
+@import "../node_modules/@ionic/angular/css/structure.css";
+@import "../node_modules/@ionic/angular/css/typography.css";
+@import "../node_modules/@ionic/angular/css/display.css";
 
 /* Optional CSS utils that can be commented out */
-@import "../pokeapi/node_modules/@ionic/angular/css/padding.css";
-@import "../pokeapi/node_modules/@ionic/angular/css/float-elements.css";
-@import "../pokeapi/node_modules/@ionic/angular/css/text-alignment.css";
-@import "../pokeapi/node_modules/@ionic/angular/css/text-transformation.css";
-@import "../pokeapi/node_modules/@ionic/angular/css/flex-utils.css";
+@import "../node_modules/@ionic/angular/css/padding.css";
+@import "../node_modules/@ionic/angular/css/float-elements.css";
+@import "../node_modules/@ionic/angular/css/text-alignment.css";
+@import "../node_modules/@ionic/angular/css/text-transformation.css";
+@import "../node_modules/@ionic/angular/css/flex-utils.css";
 
 /**
  * Ionic Dark Mode
@@ -34,4 +34,4 @@
 
 /* @import "@ionic/angular/css/palettes/dark.always.css"; */
 /* @import "@ionic/angular/css/palettes/dark.class.css"; */
-@import '../pokeapi/node_modules/@ionic/angular/css/palettes/dark.system.css';
+@import '../node_modules/@ionic/angular/css/palettes/dark.system.css';
